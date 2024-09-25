@@ -1,0 +1,76 @@
+[
+{
+"sousId": 1,
+"stakingToken": {
+"address": "0x0fA954e12686001F830f7ECB05D20d8bf4AbA2db",
+"chainId": 97,
+"decimals": 18,
+"symbol": "CRA",
+"name": "CRASWAP",
+"projectLink": "https://craswap.com"
+},
+"earningToken": {
+"address": "0x0fA954e12686001F830f7ECB05D20d8bf4AbA2db",
+"chainId": 97,
+"decimals": 18,
+"symbol": "CRA",
+"name": "CRASWAP",
+"projectLink": "https://craswap.com"
+},
+"contractAddress": {
+"97": "0x749a345EDe9AF9424d00B9c7447383767CFd0E48"
+},
+"poolCategory": "Core",
+"tokenPerBlock": "0.009259",
+"version": 2
+},
+{
+"sousId": 2,
+"stakingToken": {
+"address": "0xf062b8Fa77CB33DA16330DdE88Af628428B8c3dc",
+"chainId": 97,
+"decimals": 18,
+"symbol": "USDT",
+"name": "USD Tether",
+"projectLink": "https://tether.to"
+},
+"earningToken": {
+"address": "0x0fA954e12686001F830f7ECB05D20d8bf4AbA2db",
+"chainId": 97,
+"decimals": 18,
+"symbol": "CRA",
+"name": "CRASWAP",
+"projectLink": "https://craswap.com"
+},
+"contractAddress": {
+"97": "0xb57eD7B5316FeC12C8d3a791F5BB468e48e654AE"
+},
+"poolCategory": "Core",
+"tokenPerBlock": "0.019259",
+"version": 2
+},
+{
+"sousId": 3,
+"stakingToken": {
+"address": "0x9bdF11577B9cb7789E13D9487708Cc3f2C324DAD",
+"chainId": 97,
+"decimals": 18,
+"symbol": "WBNB",
+"name": "Wrapped BNB"
+},
+"earningToken": {
+"address": "0x0fA954e12686001F830f7ECB05D20d8bf4AbA2db",
+"chainId": 97,
+"decimals": 18,
+"symbol": "CRA",
+"name": "CRASWAP",
+"projectLink": "https://craswap.com"
+},
+"contractAddress": {
+"97": "0xa150771a86d1d70A9F65fbEeBD8B11DD1CDcaaD0"
+},
+"poolCategory": "Core",
+"tokenPerBlock": "0.009259",
+"version": 2
+}
+]
